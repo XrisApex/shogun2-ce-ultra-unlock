@@ -1,0 +1,6 @@
+*.pack
+*.bak
+*.tmp
+*.ultra-record.json
+verification/
+generic-verification/
